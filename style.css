@@ -1,0 +1,289 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+
+.black-bg {
+    background: rgb(0, 0, 0);
+    padding-bottom: 50px;
+    margin: 0px;
+
+}
+.container{
+    width: 900px;
+    /* background-color: red; */
+}
+
+.intro-text {
+    color: #fdb3f8;
+    font-size: 36px;
+    font-weight: 500;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro-image {
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section2 {
+    background: #fdb3f8;
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+
+.s2content {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    font-size: 25px;
+
+}
+
+.s2content a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.s2heading {
+    font-size: 100px;
+    font-weight: bold;
+
+}
+
+.intro-image2 {
+    width: 600px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    display: flex;
+}
+
+.s3-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.s3-list {
+    color: white;
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0%;
+
+}
+
+
+.s3-list li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #555;
+
+}
+
+.s3-list li:first-child {
+    color: #fff;
+}
+
+.s4 {
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    font: bold;
+}
+
+.s4-inner {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.s4-p {
+    width: 400px;
+}
+
+.s4-end {
+    display: flex;
+    justify-content: end;
+    margin-right: 40px;
+}
+
+.hr-line {
+    display: flex;
+    justify-content: space-between;
+}
+
+.s5 {
+    font-size: 130px;
+    display: flex;
+    color: #fff;
+    width: 1000px;
+    font-weight: bold;
+    margin-left: 60px;
+
+}
+
+.s5-div2 {
+    background-color: black;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+.s5-para {
+    width: 550px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.s5-end{
+    color: blue;
+    display: flex;
+    justify-content: center;
+
+}
+.s6{
+    display: flex;
+    justify-content: center;
+    /* background-color: blue; */
+}
+.s6-image{
+    width: 600px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: black; */
+}
+.s6-side{
+    color: #fff;
+    /* width: 300px; */
+    display :flex;
+    justify-content: end;
+    /* background: red; */
+}
+.s6-para{
+    width: 200px;
+    margin-right: 100px;
+    /* background: blue; */
+}
+.s6-heading{
+    color: #fff;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+
+}
+.s6-width{
+    width: 700px;
+}
+.s7-intro-image{
+    width: 600px;
+    display: flex;
+    margin-right: 60px;
+    
+}
+
+.s7-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.s7-para1{
+    color: #fff;
+    font-size: 35px;
+    width: 500px;
+}
+.s7-para2{
+    color: #555;
+    font-size: 35px;
+    width: 600px;
+}
+
+.s7-para3{
+    width: 250px;
+    font-size: 35px;
+    color:purple;
+}
+ 
+.s8{
+      display: flex;
+      justify-content: center;
+
+}
+.s8-inner{
+    width: 700px;
+    display: flex;
+    justify-content: center;
+}
+
+.s8-para{
+    color: #fff;
+    font-size: 45px;
+    width: 320px;
+}
+
+.s8-para2{
+    color:#fff;
+    font-size:25px ;
+    width: 400px;
+}
+
+.s9{
+    border-bottom: 1px solid #555;
+    /* display: flex; */
+    /* justify-content: flex-end; */
+    /* justify-content: center; */
+    padding: 50px;
+    color: #fff;
+    /* padding-bottom: 0%; */
+
+}
+
+.s9_div1{ 
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    border-top: 1px solid #555;
+}
+.s9_div2{
+    color: #fff;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    
+    /* padding-bottom: 0%; */
+}
+.s9 h2{
+    color: goldenrod;
+    display: flex;
+    justify-content: center;
+    font-size: 150px;
+}
+.s9 img{
+    display: flex;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.s9_div3{
+       width: 400px;
+       background:red;
+       display: flex;
+       justify-content: flex-end;
+       padding: 50px;
+       /* width: 400px; */
+}
+#s10{
+    background-image: url("bg.png");
+}
